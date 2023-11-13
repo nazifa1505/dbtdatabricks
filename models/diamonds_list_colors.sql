@@ -1,3 +1,3 @@
 select distinct color
-from diamonds_four_cs
+from diamonds
 sort by color asc
